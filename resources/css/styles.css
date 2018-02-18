@@ -21,3 +21,19 @@ header {
   margin-left: 1.5rem;
   margin-right: 1.5rem;
 }
+
+.logo {
+  font-size: 2.0rem;
+}
+
+.logotexttwo {
+  color: grey;
+}
+
+.navheader {
+  font-size: 1.5rem;
+}
+
+.navheader span {
+  margin-left: 1rem;
+}
