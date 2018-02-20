@@ -10,12 +10,17 @@ html {
   font-size: 16px;
 }
 
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 /* Header */
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: auto;
   height: 4rem;
   background-color: white;
   margin-left: 1.5rem;
@@ -35,5 +40,21 @@ header {
 }
 
 .navheader span {
+  margin-left: 1rem;
+}
+
+/* Footer */
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+  height: 4rem;
+  margin-top: 1rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.footernav span {
   margin-left: 1rem;
 }
