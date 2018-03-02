@@ -43,6 +43,31 @@ header {
   margin-left: 1rem;
 }
 
+/* Section One */
+
+.section-one {
+  display: flex;
+  align-items: center;
+  background-color: grey;
+  width: 100%;
+}
+
+.section-one img {
+  width: 60%;
+  height: auto;
+  padding: 2rem 1.5rem;
+}
+
+.sectiononetext {
+  width: 40%;
+  line-height: 1.5rem;
+}
+
+.start {
+  background-color: white;
+  width: 5rem;
+}
+
 /* Footer */
 
 footer {
