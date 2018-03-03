@@ -85,6 +85,10 @@ header {
 
 /* Begin Section Two */
 
+/*.section-two-containter {
+  display: flex;
+}*/
+
 .section-two img {
   width: 60%;
   height: auto;
@@ -108,14 +112,10 @@ header {
 
 .secton-two-right {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   background-color: grey;
   width: 40%;
 }
-
-/*.section-two-photos {
-  display: flex;
-}*/
 
 .secton-two-right img {
   width: 35%;
@@ -126,6 +126,17 @@ header {
   width: 65%;
 }
 
+.sectiontwotext-right a {
+  color: blue;
+}
+
+/* Begin Section Three */
+
+/*.section-three {
+  display: flex;
+  flex-flow: wrap;
+  width: 100%;
+}*/
 
 /* Footer */
 
