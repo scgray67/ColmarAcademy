@@ -106,6 +106,26 @@ header {
   padding: 2rem 1.5rem;
 }
 
+.secton-two-right {
+  display: flex;
+  justify-content: flex-start;
+  background-color: grey;
+  width: 40%;
+}
+
+/*.section-two-photos {
+  display: flex;
+}*/
+
+.secton-two-right img {
+  width: 35%;
+  height: auto;
+}
+
+.sectiontwotext-right {
+  width: 65%;
+}
+
 
 /* Footer */
 
