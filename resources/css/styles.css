@@ -132,11 +132,23 @@ header {
 
 /* Begin Section Three */
 
-/*.section-three {
+.section-three {
   display: flex;
-  flex-flow: wrap;
+  flex-wrap: wrap;
+  justify-content: space-around;
   width: 100%;
-}*/
+  background-color: grey;
+}
+
+.section-three-photo-text {
+  width: 28%;
+  height: auto;
+}
+
+.section-three-photo-text img {
+  width: 90%;
+  height: auto;
+}
 
 /* Footer */
 
